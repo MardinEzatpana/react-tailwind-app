@@ -4,6 +4,10 @@ import close from "./close.svg";
 import arrowUp from "./arrowUp.svg";
 import discount from "./discount.svg";
 import robot from "./robot.png";
+import star from "./star.svg";
+import send from "./Send.svg";
+import shield from "./Shield.svg";
+
 
 export {
   logo,
@@ -11,5 +15,8 @@ export {
   close,
   arrowUp,
   discount,
-  robot
+  robot,
+  star,
+  send,
+  shield
 };
