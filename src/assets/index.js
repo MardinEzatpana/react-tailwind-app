@@ -7,6 +7,10 @@ import robot from "./robot.png";
 import star from "./star.svg";
 import send from "./Send.svg";
 import shield from "./Shield.svg";
+import bill from "./bill.png";
+import google from "./google.svg";
+import apple from "./apple.svg";
+import card from "./card.png";
 
 
 export {
@@ -18,5 +22,9 @@ export {
   robot,
   star,
   send,
-  shield
+  shield,
+  bill,
+  google,
+  apple,
+  card
 };

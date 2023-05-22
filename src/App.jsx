@@ -2,6 +2,8 @@ import styles from "./style";
 import { Hero, Navbar } from "./components";
 import Stats from "./components/main/Stats";
 import Business from "./components/main/Business";
+import Billing from "./components/main/Billing";
+import CardDeal from "./components/main/CardDeal";
 
 const App = () => (
   <div className="bg-primary w-full overflow-hidden">
@@ -19,6 +21,8 @@ const App = () => (
       <div className={`${styles.boxWidth}`}>
       <Stats />
       <Business />
+      <Billing />
+      <CardDeal />
       </div>
     </div>
   </div>
