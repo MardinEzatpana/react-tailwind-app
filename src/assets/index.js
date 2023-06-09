@@ -11,7 +11,14 @@ import bill from "./bill.png";
 import google from "./google.svg";
 import apple from "./apple.svg";
 import card from "./card.png";
-
+import people01 from "./people01.png";
+import people02 from "./people02.png";
+import people03 from "./people03.png";
+import quotes from "./quotes.svg";
+import airbnb from "./airbnb.png";
+import binance from "./binance.png";
+import coinbase from "./coinbase.png";
+import dropbox from "./dropbox.png";
 
 export {
   logo,
@@ -26,5 +33,13 @@ export {
   bill,
   google,
   apple,
-  card
+  card,
+  people01,
+  people02,
+  people03,
+  quotes,
+  airbnb,
+  binance,
+  coinbase,
+  dropbox,
 };

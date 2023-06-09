@@ -4,6 +4,8 @@ import Stats from "./components/main/Stats";
 import Business from "./components/main/Business";
 import Billing from "./components/main/Billing";
 import CardDeal from "./components/main/CardDeal";
+import Testimonials from "./components/main/Testimonials";
+import Clients from "./components/main/Clients";
 
 const App = () => (
   <div className="bg-primary w-full overflow-hidden">
@@ -23,6 +25,8 @@ const App = () => (
       <Business />
       <Billing />
       <CardDeal />
+      <Testimonials />
+      <Clients />
       </div>
     </div>
   </div>
